@@ -15,9 +15,9 @@ namespace HealthSystem
         public void SeedData()
         {
             // Add Patients
-            _patientRepo.Add(new Patient(1, "Alice Johnson", 29, "Female"));
-            _patientRepo.Add(new Patient(2, "Bob Smith", 40, "Male"));
-            _patientRepo.Add(new Patient(3, "Charlie Adams", 35, "Male"));
+            _patientRepo.Add(new Patient(1, "Mercy Asare", 29, "Female"));
+            _patientRepo.Add(new Patient(2, "Nathaniel Kusi", 40, "Male"));
+            _patientRepo.Add(new Patient(3, "Charles Rich", 35, "Male"));
 
             // Add Prescriptions
             _prescriptionRepo.Add(new Prescription(1, 1, "Amoxicillin", DateTime.Now.AddDays(-10)));

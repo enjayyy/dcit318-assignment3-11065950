@@ -30,7 +30,6 @@ namespace InventorySystem.Logger
         {
             try
             {
-                // Ensure the folder exists
                 var directory = Path.GetDirectoryName(_filePath);
                 if (!string.IsNullOrEmpty(directory) && !Directory.Exists(directory))
                 {

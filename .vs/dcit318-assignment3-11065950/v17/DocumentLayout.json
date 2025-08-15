@@ -1,0 +1,402 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\C# Assignment 1\\dcit318-assignment3-11065950\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\C# Assignment 1\\dcit318-assignment3-11065950\\HealthSystem\\Repositories\\Repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HealthSystem\\Repositories\\Repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\C# Assignment 1\\dcit318-assignment3-11065950\\HealthSystem\\Models\\Prescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HealthSystem\\Models\\Prescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\C# Assignment 1\\dcit318-assignment3-11065950\\HealthSystem\\Models\\Patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HealthSystem\\Models\\Patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\C# Assignment 1\\dcit318-assignment3-11065950\\GradingSystem\\StudentResultProcessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GradingSystem\\StudentResultProcessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\C# Assignment 1\\dcit318-assignment3-11065950\\GradingSystem\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GradingSystem\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\C# Assignment 1\\dcit318-assignment3-11065950\\GradingSystem\\GradingSystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GradingSystem\\GradingSystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\C# Assignment 1\\dcit318-assignment3-11065950\\GradingSystem\\Models\\Student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GradingSystem\\Models\\Student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\C# Assignment 1\\dcit318-assignment3-11065950\\GradingSystem\\Exceptions\\MissingFieldException.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GradingSystem\\Exceptions\\MissingFieldException.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\C# Assignment 1\\dcit318-assignment3-11065950\\GradingSystem\\Exceptions\\InvalidScoreFormatException.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GradingSystem\\Exceptions\\InvalidScoreFormatException.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\C# Assignment 1\\dcit318-assignment3-11065950\\FinanceSystem\\FinanceManagementSystem\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FinanceSystem\\FinanceManagementSystem\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\C# Assignment 1\\dcit318-assignment3-11065950\\FinanceSystem\\FinanceManagementSystem\\FinanceManagementSystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FinanceSystem\\FinanceManagementSystem\\FinanceManagementSystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\C# Assignment 1\\dcit318-assignment3-11065950\\FinanceSystem\\FinanceManagementSystem\\FinanceApp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FinanceSystem\\FinanceManagementSystem\\FinanceApp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\C# Assignment 1\\dcit318-assignment3-11065950\\FinanceSystem\\FinanceManagementSystem\\Repositories\\TransactionRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FinanceSystem\\FinanceManagementSystem\\Repositories\\TransactionRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\C# Assignment 1\\dcit318-assignment3-11065950\\FinanceSystem\\FinanceManagementSystem\\Repositories\\AccountRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FinanceSystem\\FinanceManagementSystem\\Repositories\\AccountRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\C# Assignment 1\\dcit318-assignment3-11065950\\FinanceSystem\\FinanceManagementSystem\\Processors\\MobileMoneyProcessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FinanceSystem\\FinanceManagementSystem\\Processors\\MobileMoneyProcessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\C# Assignment 1\\dcit318-assignment3-11065950\\FinanceSystem\\FinanceManagementSystem\\Processors\\BankTransferProcessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FinanceSystem\\FinanceManagementSystem\\Processors\\BankTransferProcessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\C# Assignment 1\\dcit318-assignment3-11065950\\FinanceSystem\\FinanceManagementSystem\\Processors\\CryptoWalletProcessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FinanceSystem\\FinanceManagementSystem\\Processors\\CryptoWalletProcessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\C# Assignment 1\\dcit318-assignment3-11065950\\FinanceSystem\\FinanceManagementSystem\\Models\\Transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FinanceSystem\\FinanceManagementSystem\\Models\\Transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\C# Assignment 1\\dcit318-assignment3-11065950\\FinanceSystem\\FinanceManagementSystem\\Interfaces\\ITransactionProcessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FinanceSystem\\FinanceManagementSystem\\Interfaces\\ITransactionProcessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\C# Assignment 1\\dcit318-assignment3-11065950\\FinanceSystem\\FinanceManagementSystem\\Database\\DbHelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FinanceSystem\\FinanceManagementSystem\\Database\\DbHelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\C# Assignment 1\\dcit318-assignment3-11065950\\FinanceSystem\\FinanceManagementSystem\\Accounts\\SavingsAccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FinanceSystem\\FinanceManagementSystem\\Accounts\\SavingsAccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\C# Assignment 1\\dcit318-assignment3-11065950\\FinanceSystem\\FinanceManagementSystem\\Accounts\\Account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FinanceSystem\\FinanceManagementSystem\\Accounts\\Account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C# Assignment 1\\dcit318-assignment3-11065950\\HealthSystem\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "HealthSystem\\Repositories\\Repository.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C# Assignment 1\\dcit318-assignment3-11065950\\HealthSystem\\Repositories\\Repository.cs",
+              "RelativeToolTip": "HealthSystem\\Repositories\\Repository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T04:28:28.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Prescription.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C# Assignment 1\\dcit318-assignment3-11065950\\HealthSystem\\Models\\Prescription.cs",
+              "RelativeDocumentMoniker": "HealthSystem\\Models\\Prescription.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C# Assignment 1\\dcit318-assignment3-11065950\\HealthSystem\\Models\\Prescription.cs",
+              "RelativeToolTip": "HealthSystem\\Models\\Prescription.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T04:28:24.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C# Assignment 1\\dcit318-assignment3-11065950\\HealthSystem\\Models\\Patient.cs",
+              "RelativeDocumentMoniker": "HealthSystem\\Models\\Patient.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C# Assignment 1\\dcit318-assignment3-11065950\\HealthSystem\\Models\\Patient.cs",
+              "RelativeToolTip": "HealthSystem\\Models\\Patient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T04:28:22.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentResultProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C# Assignment 1\\dcit318-assignment3-11065950\\GradingSystem\\StudentResultProcessor.cs",
+              "RelativeDocumentMoniker": "GradingSystem\\StudentResultProcessor.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C# Assignment 1\\dcit318-assignment3-11065950\\GradingSystem\\StudentResultProcessor.cs",
+              "RelativeToolTip": "GradingSystem\\StudentResultProcessor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T04:28:16.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C# Assignment 1\\dcit318-assignment3-11065950\\GradingSystem\\Program.cs",
+              "RelativeDocumentMoniker": "GradingSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C# Assignment 1\\dcit318-assignment3-11065950\\GradingSystem\\Program.cs",
+              "RelativeToolTip": "GradingSystem\\Program.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T04:28:12.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GradingSystem.csproj",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C# Assignment 1\\dcit318-assignment3-11065950\\GradingSystem\\GradingSystem.csproj",
+              "RelativeDocumentMoniker": "GradingSystem\\GradingSystem.csproj",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C# Assignment 1\\dcit318-assignment3-11065950\\GradingSystem\\GradingSystem.csproj",
+              "RelativeToolTip": "GradingSystem\\GradingSystem.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-15T04:28:10.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C# Assignment 1\\dcit318-assignment3-11065950\\GradingSystem\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "GradingSystem\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C# Assignment 1\\dcit318-assignment3-11065950\\GradingSystem\\Models\\Student.cs",
+              "RelativeToolTip": "GradingSystem\\Models\\Student.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T04:28:05.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MissingFieldException.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C# Assignment 1\\dcit318-assignment3-11065950\\GradingSystem\\Exceptions\\MissingFieldException.cs",
+              "RelativeDocumentMoniker": "GradingSystem\\Exceptions\\MissingFieldException.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C# Assignment 1\\dcit318-assignment3-11065950\\GradingSystem\\Exceptions\\MissingFieldException.cs",
+              "RelativeToolTip": "GradingSystem\\Exceptions\\MissingFieldException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T04:28:01.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InvalidScoreFormatException.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C# Assignment 1\\dcit318-assignment3-11065950\\GradingSystem\\Exceptions\\InvalidScoreFormatException.cs",
+              "RelativeDocumentMoniker": "GradingSystem\\Exceptions\\InvalidScoreFormatException.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C# Assignment 1\\dcit318-assignment3-11065950\\GradingSystem\\Exceptions\\InvalidScoreFormatException.cs",
+              "RelativeToolTip": "GradingSystem\\Exceptions\\InvalidScoreFormatException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T04:27:58.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C# Assignment 1\\dcit318-assignment3-11065950\\FinanceSystem\\FinanceManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "FinanceSystem\\FinanceManagementSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C# Assignment 1\\dcit318-assignment3-11065950\\FinanceSystem\\FinanceManagementSystem\\Program.cs",
+              "RelativeToolTip": "FinanceSystem\\FinanceManagementSystem\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T04:27:51.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FinanceManagementSystem.csproj",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C# Assignment 1\\dcit318-assignment3-11065950\\FinanceSystem\\FinanceManagementSystem\\FinanceManagementSystem.csproj",
+              "RelativeDocumentMoniker": "FinanceSystem\\FinanceManagementSystem\\FinanceManagementSystem.csproj",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C# Assignment 1\\dcit318-assignment3-11065950\\FinanceSystem\\FinanceManagementSystem\\FinanceManagementSystem.csproj",
+              "RelativeToolTip": "FinanceSystem\\FinanceManagementSystem\\FinanceManagementSystem.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-15T04:27:49.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FinanceApp.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C# Assignment 1\\dcit318-assignment3-11065950\\FinanceSystem\\FinanceManagementSystem\\FinanceApp.cs",
+              "RelativeDocumentMoniker": "FinanceSystem\\FinanceManagementSystem\\FinanceApp.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C# Assignment 1\\dcit318-assignment3-11065950\\FinanceSystem\\FinanceManagementSystem\\FinanceApp.cs",
+              "RelativeToolTip": "FinanceSystem\\FinanceManagementSystem\\FinanceApp.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T04:27:44.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TransactionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C# Assignment 1\\dcit318-assignment3-11065950\\FinanceSystem\\FinanceManagementSystem\\Repositories\\TransactionRepository.cs",
+              "RelativeDocumentMoniker": "FinanceSystem\\FinanceManagementSystem\\Repositories\\TransactionRepository.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C# Assignment 1\\dcit318-assignment3-11065950\\FinanceSystem\\FinanceManagementSystem\\Repositories\\TransactionRepository.cs",
+              "RelativeToolTip": "FinanceSystem\\FinanceManagementSystem\\Repositories\\TransactionRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T04:27:40.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AccountRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C# Assignment 1\\dcit318-assignment3-11065950\\FinanceSystem\\FinanceManagementSystem\\Repositories\\AccountRepository.cs",
+              "RelativeDocumentMoniker": "FinanceSystem\\FinanceManagementSystem\\Repositories\\AccountRepository.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C# Assignment 1\\dcit318-assignment3-11065950\\FinanceSystem\\FinanceManagementSystem\\Repositories\\AccountRepository.cs",
+              "RelativeToolTip": "FinanceSystem\\FinanceManagementSystem\\Repositories\\AccountRepository.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T04:27:31.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MobileMoneyProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C# Assignment 1\\dcit318-assignment3-11065950\\FinanceSystem\\FinanceManagementSystem\\Processors\\MobileMoneyProcessor.cs",
+              "RelativeDocumentMoniker": "FinanceSystem\\FinanceManagementSystem\\Processors\\MobileMoneyProcessor.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C# Assignment 1\\dcit318-assignment3-11065950\\FinanceSystem\\FinanceManagementSystem\\Processors\\MobileMoneyProcessor.cs",
+              "RelativeToolTip": "FinanceSystem\\FinanceManagementSystem\\Processors\\MobileMoneyProcessor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T04:27:27.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BankTransferProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C# Assignment 1\\dcit318-assignment3-11065950\\FinanceSystem\\FinanceManagementSystem\\Processors\\BankTransferProcessor.cs",
+              "RelativeDocumentMoniker": "FinanceSystem\\FinanceManagementSystem\\Processors\\BankTransferProcessor.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C# Assignment 1\\dcit318-assignment3-11065950\\FinanceSystem\\FinanceManagementSystem\\Processors\\BankTransferProcessor.cs",
+              "RelativeToolTip": "FinanceSystem\\FinanceManagementSystem\\Processors\\BankTransferProcessor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T04:27:25.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CryptoWalletProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C# Assignment 1\\dcit318-assignment3-11065950\\FinanceSystem\\FinanceManagementSystem\\Processors\\CryptoWalletProcessor.cs",
+              "RelativeDocumentMoniker": "FinanceSystem\\FinanceManagementSystem\\Processors\\CryptoWalletProcessor.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C# Assignment 1\\dcit318-assignment3-11065950\\FinanceSystem\\FinanceManagementSystem\\Processors\\CryptoWalletProcessor.cs",
+              "RelativeToolTip": "FinanceSystem\\FinanceManagementSystem\\Processors\\CryptoWalletProcessor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T04:27:18.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C# Assignment 1\\dcit318-assignment3-11065950\\FinanceSystem\\FinanceManagementSystem\\Models\\Transaction.cs",
+              "RelativeDocumentMoniker": "FinanceSystem\\FinanceManagementSystem\\Models\\Transaction.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C# Assignment 1\\dcit318-assignment3-11065950\\FinanceSystem\\FinanceManagementSystem\\Models\\Transaction.cs",
+              "RelativeToolTip": "FinanceSystem\\FinanceManagementSystem\\Models\\Transaction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T04:27:10.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ITransactionProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C# Assignment 1\\dcit318-assignment3-11065950\\FinanceSystem\\FinanceManagementSystem\\Interfaces\\ITransactionProcessor.cs",
+              "RelativeDocumentMoniker": "FinanceSystem\\FinanceManagementSystem\\Interfaces\\ITransactionProcessor.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C# Assignment 1\\dcit318-assignment3-11065950\\FinanceSystem\\FinanceManagementSystem\\Interfaces\\ITransactionProcessor.cs",
+              "RelativeToolTip": "FinanceSystem\\FinanceManagementSystem\\Interfaces\\ITransactionProcessor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T04:27:05.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DbHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C# Assignment 1\\dcit318-assignment3-11065950\\FinanceSystem\\FinanceManagementSystem\\Database\\DbHelper.cs",
+              "RelativeDocumentMoniker": "FinanceSystem\\FinanceManagementSystem\\Database\\DbHelper.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C# Assignment 1\\dcit318-assignment3-11065950\\FinanceSystem\\FinanceManagementSystem\\Database\\DbHelper.cs",
+              "RelativeToolTip": "FinanceSystem\\FinanceManagementSystem\\Database\\DbHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T04:27:01.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SavingsAccount.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C# Assignment 1\\dcit318-assignment3-11065950\\FinanceSystem\\FinanceManagementSystem\\Accounts\\SavingsAccount.cs",
+              "RelativeDocumentMoniker": "FinanceSystem\\FinanceManagementSystem\\Accounts\\SavingsAccount.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C# Assignment 1\\dcit318-assignment3-11065950\\FinanceSystem\\FinanceManagementSystem\\Accounts\\SavingsAccount.cs",
+              "RelativeToolTip": "FinanceSystem\\FinanceManagementSystem\\Accounts\\SavingsAccount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T04:26:54.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C# Assignment 1\\dcit318-assignment3-11065950\\FinanceSystem\\FinanceManagementSystem\\Accounts\\Account.cs",
+              "RelativeDocumentMoniker": "FinanceSystem\\FinanceManagementSystem\\Accounts\\Account.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C# Assignment 1\\dcit318-assignment3-11065950\\FinanceSystem\\FinanceManagementSystem\\Accounts\\Account.cs",
+              "RelativeToolTip": "FinanceSystem\\FinanceManagementSystem\\Accounts\\Account.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T04:26:48.515Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

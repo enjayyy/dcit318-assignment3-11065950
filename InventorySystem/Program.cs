@@ -10,11 +10,9 @@ namespace InventorySystem
 
             var app = new InventoryApp(filePath);
 
-            // Seed sample data and save
             app.SeedSampleData();
             app.SaveData();
 
-            // Simulate a new session
             Console.WriteLine("Clearing memory and reloading data...\n");
 
             var newApp = new InventoryApp(filePath);

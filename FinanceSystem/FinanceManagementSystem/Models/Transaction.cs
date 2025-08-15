@@ -7,6 +7,5 @@ using System;
 
 namespace FinanceManagementSystem.Models
 {
-    // Immutable transaction data
     public record Transaction(int Id, DateTime Date, decimal Amount, string Category);
 }

@@ -15,7 +15,6 @@ namespace FinanceManagementSystem.Repositories
         {
             using var conn = DbHelper.Open();
 
-            // Try insert; if PK exists, do nothing
             using var cmd = conn.CreateCommand();
             cmd.CommandText = @"
                 MERGE INTO accounts a

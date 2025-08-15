@@ -8,7 +8,6 @@ using FinanceManagementSystem.Models;
 
 namespace FinanceManagementSystem.Accounts
 {
-    // Cannot be inherited further
     public sealed class SavingsAccount : Account
     {
         public SavingsAccount(string accountNumber, decimal initialBalance)

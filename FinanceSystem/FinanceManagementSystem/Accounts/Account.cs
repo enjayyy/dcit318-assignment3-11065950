@@ -18,7 +18,6 @@ namespace FinanceManagementSystem.Accounts
             Balance = initialBalance;
         }
 
-        // Base behavior: deduct amount
         public virtual void ApplyTransaction(Transaction transaction)
         {
             Balance -= transaction.Amount;
